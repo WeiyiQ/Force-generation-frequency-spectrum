@@ -1,1 +1,2 @@
-# Force-generation-frequency-spectrum
+# MorphodynamicProfiling
+Run main.m for morphodynamics analysis
